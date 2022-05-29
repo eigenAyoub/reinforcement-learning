@@ -1,4 +1,4 @@
-I'll collect in this Repo my personal **programming** work that I have done for some RL courses that I have followed. I was mainly following, Amir Massoud  Fahramand's course []() that was taught in the University of Toronto. To me, it was a perfect balance between theory and application. Contained proofs of almost every important results (e.g., proof of convergence of the main algorithms/results, proof that an operator is a contraction mapping, besides the usual $$T^\pi$$, etc.)
+I'll collect in this Repo my personal **programming** work that I have done for some RL courses that I have followed. I was mainly following, Amir Massoud  Fahramand's course []() that was taught in the University of Toronto. To me, it was a perfect balance between theory and application. Contained proofs of almost every important results (e.g., proof of convergence of the main algorithms, proofs that "some operator" is a contraction mapping besides the known ones like the Bellman Op, etc.)
 
 I'll quote the official description of the course:
 
@@ -7,13 +7,13 @@ I'll quote the official description of the course:
 
 As I mentioned above, this Repo will mainly include programming related aspects. In my [webpage](), I might write on some theoritical RL aspects that were part of the course/assignements.
 
-## ToC:
+### ToC:
 * [Repo structure](#repo-structure)
 * [Credits](#credits)
 * [References](#references)
 
 
-## Repo structure
+### Repo structure
 
 * Part 1: Dynamic Programming   [DONE]
   * Value Iteration
@@ -30,12 +30,12 @@ As I mentioned above, this Repo will mainly include programming related aspects.
 * Part 3:  Gradient-Based Methods [TO-DO]
 
 
-## Credits (so far):
-* RL course
-* DeepMind 
-* Standord course
+### Credits (so far):
+* [The main course](https://amfarahmand.github.io/IntroRL/)
+* [DeepMind x UCL, RL course, version 2021, Hado van Hasselt](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+* [Standord, CS234: Reinforcement Learning Winter 2022](https://web.stanford.edu/class/cs234/)
 
-## References:
-* sutton & Barto
-* The RL ..
-* Lecture notes
+### References:
+* [Sutton & Barto (2018)](http://incompleteideas.net/book/the-book.html)
+* [Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+* [Lecture notes of the main course](https://amfarahmand.github.io/IntroRL/lectures/LNRL.pdf)
