@@ -27,7 +27,10 @@ As I mentioned above, this Repo will mainly include programming related aspects.
   * Reporting [TO-DO]
   * Implementing the DDQN loss  [TO-DO]
 
-* Part 3:  Gradient-Based Methods [TO-DO]
+* Part 3:  Gradient-Based Methods 
+  * Polcicy Gradient [DONE]
+    * Gaussian Policy Network [Done]
+  * Actor Critic [TO-DO]
 
 
 ### Credits (so far):
